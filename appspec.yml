@@ -4,8 +4,3 @@ files:
   - source: /index.html
     destination: /var/www/html/
 hooks:
-  BeforeInstall:
- 
-  ApplicationStop:
- 
-
